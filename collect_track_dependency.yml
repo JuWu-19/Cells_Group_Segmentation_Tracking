@@ -1,0 +1,9 @@
+name: collect_track
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - opencv
+  - matplotlib
+  - scipy
