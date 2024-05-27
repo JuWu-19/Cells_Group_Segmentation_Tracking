@@ -19,8 +19,8 @@ This method is particularly effective in handling images with varying illuminati
 
 <table>
   <tr>
-    <td><img src="" width="78%"/></td>
-    <td><img src="" width="78%"/></td>
+    <td><img src="https://github.com/JuWu-19/Cells_Group_Segmentation_Tracking/assets/58901415/52c744d2-3558-4ece-bc9b-43b53b1c31f2" width="78%"/></td>
+    <td><img src="https://github.com/JuWu-19/Cells_Group_Segmentation_Tracking/assets/58901415/b3b48b4a-ea77-498e-88d4-547959d7d8ed" width="78%"/></td>
   </tr>
   <tr>
     <td align="center">pilG_dilute_PC</td>
@@ -40,8 +40,8 @@ This method is particularly effective in handling images with varying illuminati
 The animations are too big to upload, so the snapshots of the heatmap animations for the microscope images in the experiment pilG_dilute_PC and pilG_dense_PC are as follows:
 <table>
   <tr>
-    <td><img src="https://private-user-images.githubusercontent.com/58901415/300326452-49dbb71c-abeb-4fb1-aa15-f7f98a5b2d76.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0OTk4NTcsIm5iZiI6MTcwNjQ5OTU1NywicGF0aCI6Ii81ODkwMTQxNS8zMDAzMjY0NTItNDlkYmI3MWMtYWJlYi00ZmIxLWFhMTUtZjdmOThhNWIyZDc2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDAzMzkxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3YWQ3NzkzNjk2MTJlNWMyMGUwMjY0ZDA3MTdjNzk1Nzg4YzgwZjU0YzEzZmQxYmVlZjQ5NzQzMzQxOGQ4NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Kmk6s32yOLlz5nnAc5nRT9zuzTsAXrJ04QMXZyicyOA" width="78%"/></td>
-    <td><img src="https://private-user-images.githubusercontent.com/58901415/300326465-001aef1b-1ca4-4544-be27-598019ccd478.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0OTk4NTcsIm5iZiI6MTcwNjQ5OTU1NywicGF0aCI6Ii81ODkwMTQxNS8zMDAzMjY0NjUtMDAxYWVmMWItMWNhNC00NTQ0LWJlMjctNTk4MDE5Y2NkNDc4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDAzMzkxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2ZTdmNTgwMGM5MjJjMjM1NDA4OWJhODcxNTAxMDA1ODJhMmFiMGUwMWQ4YjJhYTEzZjM1ZGU5MmUwOWQzYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4e1RTTOTiIO4c3_fze5nVVlL_gWVrCFFhiTBkSJ0aPo" width="78%"/></td>
+    <td><img src="https://github.com/JuWu-19/Cells_Group_Segmentation_Tracking/assets/58901415/afbc95a1-15a4-4dff-8aed-023545801358" width="78%"/></td>
+    <td><img src="https://github.com/JuWu-19/Cells_Group_Segmentation_Tracking/assets/58901415/81f7c2f4-909e-47d1-92af-34aa857d2223" width="78%"/></td>
   </tr>
   <tr>
     <td align="center">Density heatmap for pilG_dense_PC</td>
@@ -64,8 +64,8 @@ The animations are too big to upload, so the snapshots of the heatmap animations
 The Agent-based Particle Tracking is implemented in *class BacteriaTracker*. It involves contour detection, feature extraction, and the application of tracking algorithms to follow the movement of each bacterium across multiple frames. The animations are too big to upload, so the snapshots of the specific timesteps of the animations for the microscope images in the experiment pilG_dilute_PC are as follows:
 <table>
   <tr>
-    <td><img src="https://private-user-images.githubusercontent.com/58901415/300328834-6db12fc6-feb4-490c-8325-cf189a065783.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MDA0MzUsIm5iZiI6MTcwNjUwMDEzNSwicGF0aCI6Ii81ODkwMTQxNS8zMDAzMjg4MzQtNmRiMTJmYzYtZmViNC00OTBjLTgzMjUtY2YxODlhMDY1NzgzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDAzNDg1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjOGJjZDBlOWIwMzE5ZDU3ZGUyY2RjY2UxZDg4MWYyZjFhN2YxNTYzNzIwYTczMTEwMGQyM2NkODQyNTg1N2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ffp7Adk93qDHt_eUjaPwdBWQ7xJFek4giEaQJuz5KGA" width="88%"/></td>
-    <td><img src="https://private-user-images.githubusercontent.com/58901415/300328375-a80607ef-cc1b-41f8-9cae-36afff09c03d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1MDAyMDksIm5iZiI6MTcwNjQ5OTkwOSwicGF0aCI6Ii81ODkwMTQxNS8zMDAzMjgzNzUtYTgwNjA3ZWYtY2MxYi00MWY4LTljYWUtMzZhZmZmMDljMDNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDAzNDUwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyMWFjNzM0OGQwNWQ3ZGFmZDgyYmE5MjFlZjgzY2Q0MzhkZGMzZGMxMzVkYjcyMjZmZTYxMWVhYTA4ZjQ0MzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.uzLFpbpFZ4aYon1X7BZ1vU8x3fLdysTEd5CMBB71Njs" width="88%"/></td>
+    <td><img src="https://github.com/JuWu-19/Cells_Group_Segmentation_Tracking/assets/58901415/fcfbfd90-265f-4f0f-9504-8487f751fe92" width="88%"/></td>
+    <td><img src="https://github.com/JuWu-19/Cells_Group_Segmentation_Tracking/assets/58901415/783876c3-600b-402c-977e-844984099f9b" width="88%"/></td>
   </tr>
   <tr>
     <td align="center">Time step 0</td>
